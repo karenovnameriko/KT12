@@ -1,0 +1,14 @@
+/Users/merykarenovna/Projects/Kt12_3/Kt12_3/bin/Debug/net8.0/Kt12_3
+/Users/merykarenovna/Projects/Kt12_3/Kt12_3/bin/Debug/net8.0/Kt12_3.deps.json
+/Users/merykarenovna/Projects/Kt12_3/Kt12_3/bin/Debug/net8.0/Kt12_3.runtimeconfig.json
+/Users/merykarenovna/Projects/Kt12_3/Kt12_3/bin/Debug/net8.0/Kt12_3.dll
+/Users/merykarenovna/Projects/Kt12_3/Kt12_3/bin/Debug/net8.0/Kt12_3.pdb
+/Users/merykarenovna/Projects/Kt12_3/Kt12_3/obj/Debug/net8.0/Kt12_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merykarenovna/Projects/Kt12_3/Kt12_3/obj/Debug/net8.0/Kt12_3.AssemblyInfoInputs.cache
+/Users/merykarenovna/Projects/Kt12_3/Kt12_3/obj/Debug/net8.0/Kt12_3.AssemblyInfo.cs
+/Users/merykarenovna/Projects/Kt12_3/Kt12_3/obj/Debug/net8.0/Kt12_3.csproj.CoreCompileInputs.cache
+/Users/merykarenovna/Projects/Kt12_3/Kt12_3/obj/Debug/net8.0/Kt12_3.dll
+/Users/merykarenovna/Projects/Kt12_3/Kt12_3/obj/Debug/net8.0/refint/Kt12_3.dll
+/Users/merykarenovna/Projects/Kt12_3/Kt12_3/obj/Debug/net8.0/Kt12_3.pdb
+/Users/merykarenovna/Projects/Kt12_3/Kt12_3/obj/Debug/net8.0/Kt12_3.genruntimeconfig.cache
+/Users/merykarenovna/Projects/Kt12_3/Kt12_3/obj/Debug/net8.0/ref/Kt12_3.dll

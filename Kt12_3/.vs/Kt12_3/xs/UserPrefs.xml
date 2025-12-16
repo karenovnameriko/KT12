@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{2AD92766-F91E-474F-9A1E-BE5D269BBC29}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Kt12_3/Program.cs">
+    <Files>
+      <File FileName="Kt12_3/Program.cs" Line="60" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Kt12_3" expanded="True">
+            <Node name="Kt12_3" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Kt12__3 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
